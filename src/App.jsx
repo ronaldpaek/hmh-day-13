@@ -34,7 +34,7 @@ function App() {
         <Box className="blue-box" />
       </Section>
       <Section title="3">
-        <img src="assets/meme.webp" alt="meme" />
+        <img src="/meme.webp" alt="meme" />
       </Section>
       <Section title="4">
         <div className="box-container">
